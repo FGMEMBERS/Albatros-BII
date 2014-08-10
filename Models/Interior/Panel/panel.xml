@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+  
+  <!-- Source : http://flyingmachines.ru/Images7/Flight/1915/953-2.jpg -->
+  <path>panel.ac</path>
+
+  <animation>
+    <!-- Objets opaques -->
+    <object-name>panel</object-name>
+
+    <!-- Objets transparents -->
+  </animation>
+
+  <!-- ALTIMETER -->
+  <model>
+    <path>Aircraft/Albatros-BII/Models/Interior/Panel/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>  0.009 </x-m>
+      <y-m> -0.200 </y-m>
+      <z-m>  0.020 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- TURN -->
+  <model>
+    <path>Aircraft/Albatros-BII/Models/Interior/Panel/Instruments/turn/turn.xml</path>
+    <offsets>
+      <x-m> 0.005 </x-m>
+      <y-m> 0.000 </y-m>
+      <z-m> 0.230 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- FUEL SELECTOR -->
+  <model>
+    <path>Aircraft/Albatros-BII/Models/Interior/Panel/Instruments/fuelselector/fuelselector.xml</path>
+    <offsets>
+      <x-m>  0.000 </x-m>
+      <y-m>  0.330 </y-m>
+      <z-m> -0.060 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- PUMP SELECTOR -->
+  <model>
+    <path>Aircraft/Albatros-BII/Models/Interior/Panel/Instruments/pump/pump.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.370 </y-m>
+      <z-m> 0.040 </z-m>
+    </offsets>
+  </model>
+  
+  <!-- DIVERS -->
+  <model>
+    <path>Aircraft/Albatros-BII/Models/Interior/Panel/Instruments/divers/divers.xml</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 0.312 </y-m>
+      <z-m> 0.004 </z-m>
+    </offsets>
+  </model>
+  
+</PropertyList>
