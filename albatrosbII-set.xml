@@ -8,6 +8,16 @@
     <author>Emmanuel BARANGER (3D/FDM) / LesterBoffo (FDM)</author>
     <flight-model>yasim</flight-model>
     <aero>albatrosbII-yasim</aero>
+
+    <tags>
+      <tag>tail-dragger</tag>
+      <tag>fixed-gear</tag>
+      <tag>single-engine</tag>
+      <tag>piston</tag>
+      <tag>biplane</tag>
+      <tag>reconnaissance</tag>
+      <tag>ww1</tag>
+    </tags>
     
     <rating>
       <FDM type="int">     3 </FDM>
